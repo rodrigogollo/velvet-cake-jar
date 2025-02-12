@@ -2101,7 +2101,7 @@ input, select, textarea {
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 1);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
